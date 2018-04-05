@@ -1,0 +1,865 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta property="og:title" content="Crime in Delhi"> 
+  <meta property="og:description" content="Information about crime in Delhi, India. Shows how much people think the problem in their community are property crimes (home broken, car theft, etc.), violent crimes (being mugged or robbed, being attacked or insulted), corruption and other crimes. "> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:url" content="https://www.numbeo.com/crime/in/Delhi"> 
+  <script type="text/javascript" src="https://www.numbeo.com/common/numbeo_standard.js"></script> 
+  <link type="text/css" href="https://www.numbeo.com/common/css/redmond/jquery-ui-1.10.3.custom.min.css" rel="Stylesheet"> 
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.numbeo.com/favicon.ico"> 
+  <script type="text/javascript" src="https://www.numbeo.com/common/js/jquery-1.10.2.min.js"></script> 
+  <script type="text/javascript" src="https://www.numbeo.com/common/js/jquery-ui-1.10.3.custom.min.js"></script> 
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script> 
+  <link rel="stylesheet" type="text/css" href="https://www.numbeo.com/common/style.css"> 
+  <link rel="stylesheet" type="text/css" href="https://www.numbeo.com/common/style_desktop.css"> 
+  <script type="text/javascript">
+$(document).ready(function(){
+	$("#nav-one li").hover(
+		function(){ $("ul", this).fadeIn("fast"); },
+		function() { }
+	);
+	if (document.all) {
+		$("#nav-one li").hoverClass ("sfHover");
+	}
+});
+$.fn.hoverClass = function(c) {
+	return this.each(function(){
+		$(this).hover(
+			function() { $(this).addClass(c);  },
+			function() { $(this).removeClass(c); }
+		);
+	});
+};
+</script> 
+  <title>Crime in Delhi. Safety in Delhi</title> 
+ </head> 
+ <body> 
+  <aside>
+   <div class="top_ad"> 
+    <div class="innerWidth"> 
+     <div style="display: block; height: 90px; width: 728px; margin: 0 auto;"> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+      <!-- ad_in_header3 --> 
+      <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8993465169534557" data-ad-slot="7618322317"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+     </div> 
+    </div> 
+   </div> 
+  </aside>
+  <div class="innerWidth"> 
+   <div class="logo-and-upper-ad"> 
+    <table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;"> 
+     <tbody>
+      <tr> 
+       <td style="padding-top: 0px; padding-bottom: 7px; vertical-align: bottom;"> <a href="https://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;"> <img src="https://www.numbeo.com/images/numbeo_icon.svg" style="height: 62px; vertical-align: bottom; border: 0;" alt=""><img src="https://www.numbeo.com/images/numbeo_text.svg" style="height: 34px; margin-left: 1em; margin-bottom: 8px; vertical-align: bottom; border: 0;" alt="NUMBEO"></a> </td> 
+       <td style="padding-left:8px; padding-top: 0px; padding-bottom: 0px; vertical-align: middle; width: 680px; text-align: right;"> 
+        <div style="display: inline-block; width: 100%; margin-top: 10px; margin-bottom: 10px; text-align: right; vertical-align: bottom"> 
+         <nav style="display: inline-block; vertical-align: middle; padding-left: 0.5em;"> 
+          <div class="standard_margin_inlineblock"> 
+           <select name="city_result_switcher" id="city_result_switcher" onchange="window.location = this.value;" class="result_switcher "> <option value="" selected>What are you looking for?</option> <option value="https://www.numbeo.com/cost-of-living/in/Delhi">Cost of Living in Delhi</option> <option value="https://www.numbeo.com/crime/in/Delhi">Crime in Delhi</option> <option value="https://www.numbeo.com/climate/in/Delhi">Climate in Delhi</option> <option value="https://www.numbeo.com/food-prices/in/Delhi">Food Prices in Delhi</option> <option value="https://www.numbeo.com/gas-prices/in/Delhi">Gas Prices in Delhi</option> <option value="https://www.numbeo.com/health-care/in/Delhi">Health Care in Delhi</option> <option value="https://www.numbeo.com/pollution/in/Delhi">Pollution in Delhi</option> <option value="https://www.numbeo.com/property-investment/in/Delhi">Property Prices in Delhi</option> <option value="https://www.numbeo.com/quality-of-life/in/Delhi">Quality of Life in Delhi</option> <option value="https://www.numbeo.com/taxi-fare/in/Delhi">Taxi Fares in Delhi</option> <option value="https://www.numbeo.com/traffic/in/Delhi">Traffic in Delhi</option> </select> 
+          </div> 
+         </nav> 
+         <nav style="display: inline-block; vertical-align: middle;"> 
+          <div class="standard_margin_inlineblock"> 
+           <form action="https://www.numbeo.com/common/dispatcher.jsp" method="get" id="menu_dispatch_form" style="display: inline; padding: 0; margin:0;"> 
+            <input type="hidden" name="where" value="https://www.numbeo.com/crime/in/" style="display: inline; padding:0; margin:0;"> 
+            <input id="city_selector_menu_city_id" size="27" type="text" placeholder="Select City" class="city-selector-menu"> 
+            <input type="hidden" id="menu_city_id" name="city_id"> 
+            <input type="hidden" id="name_menu_city_id" name="name_city_id"> 
+           </form> 
+          </div> 
+          <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_menu_city_id').autocomplete({
+  	  source: 'https://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_menu_city_id').val(ui.item.label);
+         $('#menu_city_id').val(ui.item.value);
+jQuery('#menu_dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#menu_city_id').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_menu_city_id').val();
+		   $('#name_menu_city_id').val(val);
+	   }
+  }); // end autocompleter definition
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+ }); // end document ready 
+</script> 
+         </nav> 
+        </div> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <!-- logo-and-upper-ad --> 
+   <div class="dropdown-outer"> 
+    <nav class="before-nav"> 
+     <ul id="nav-one" class="nav"> 
+      <li class="dir"> <a href="https://www.numbeo.com/cost-of-living/">Cost Of Living</a> 
+       <ul> 
+        <li><a href="https://www.numbeo.com/cost-of-living/">Cost Of Living</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/comparison.jsp">Cost of Living Comparison</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/calculator.jsp">Cost of Living Calculator</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/rankings.jsp">Cost Of Living Index</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/rankings_current.jsp">Cost Of Living Index (Current)</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/rankings_by_country.jsp">Cost Of Living Rankings By Country</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/estimator_main">Cost of Living Estimator</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/prices_by_city.jsp">Prices By City</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/prices_by_country.jsp">Prices By Country</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/historical-data">Historical Data in a City by Year </a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/historical-prices-by-city">Historical Data in a Year by City</a></li> 
+        <li><a href="https://www.numbeo.com/food-prices/">Food Prices</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/basket_of_goods.jsp">Basket of Goods and Services</a></li> 
+        <li><a href="https://www.numbeo.com/common/motivation_and_methodology.jsp">Our Motivation and Methodology</a></li> 
+        <li><a href="https://www.numbeo.com/cost-of-living/contribute.jsp">Update Information for Your City</a></li> 
+       </ul></li> 
+      <li class="dir"> <a href="https://www.numbeo.com/property-investment/">Property Prices</a> 
+       <ul> 
+        <li><a href="https://www.numbeo.com/property-investment/">Property Prices</a></li> 
+        <li><a href="https://www.numbeo.com/property-investment/comparison.jsp">Property Prices Comparison</a></li> 
+        <li><a href="https://www.numbeo.com/property-investment/rankings.jsp">Property Price Index</a></li> 
+        <li><a href="https://www.numbeo.com/property-investment/rankings_current.jsp">Property Price Index Rate (Current)</a></li> 
+        <li><a href="https://www.numbeo.com/property-investment/rankings_by_country.jsp">Property Price Index By Country</a></li> 
+       </ul></li> 
+      <li class="dir"> <a href="https://www.numbeo.com/crime/">Crime</a> 
+       <ul> 
+        <li><a href="https://www.numbeo.com/crime/">Crime</a></li> 
+        <li><a href="https://www.numbeo.com/crime/comparison.jsp">Crime Comparisons</a></li> 
+        <li><a href="https://www.numbeo.com/crime/rankings_current.jsp">Crime Index Rate Latest</a></li> 
+        <li><a href="https://www.numbeo.com/crime/rankings.jsp">Crime Index</a></li> 
+        <li><a href="https://www.numbeo.com/crime/rankings_by_country.jsp">Crime Index by Country</a></li> 
+       </ul></li> 
+      <li class="dir"> <a href="https://www.numbeo.com/health-care/">Health Care</a> 
+       <ul> 
+        <li><a href="https://www.numbeo.com/health-care/">Health Care</a></li> 
+        <li><a href="https://www.numbeo.com/health-care/comparison.jsp">Health Care Comparisons</a></li> 
+        <li><a href="https://www.numbeo.com/health-care/rankings_current.jsp">Health Care Index Rate Latest</a></li> 
+        <li><a href="https://www.numbeo.com/health-care/rankings.jsp">Health Care Index</a></li> 
+        <li><a href="https://www.numbeo.com/health-care/rankings_by_country.jsp">Health Care Index by Country</a></li> 
+       </ul></li> 
+      <li class="dir"> <a href="https://www.numbeo.com/pollution/">Pollution</a> 
+       <ul> 
+        <li><a href="https://www.numbeo.com/pollution/">Pollution</a></li> 
+        <li><a href="https://www.numbeo.com/pollution/comparison.jsp">Pollution Comparisons</a></li> 
+        <li><a href="https://www.numbeo.com/pollution/rankings_current.jsp">Pollution Index Rate Latest</a></li> 
+        <li><a href="https://www.numbeo.com/pollution/rankings.jsp">Pollution Index</a></li> 
+        <li><a href="https://www.numbeo.com/pollution/rankings_by_country.jsp">Pollution Index by Country</a></li> 
+       </ul></li> 
+      <li class="dir"> <a href="https://www.numbeo.com/traffic/">Traffic</a> 
+       <ul> 
+        <li><a href="https://www.numbeo.com/traffic/">Traffic</a></li> 
+        <li><a href="https://www.numbeo.com/traffic/comparison.jsp">Traffic Comparisons</a></li> 
+        <li><a href="https://www.numbeo.com/traffic/rankings_current.jsp">Traffic Index Rate Latest</a></li> 
+        <li><a href="https://www.numbeo.com/traffic/rankings.jsp">Traffic Index</a></li> 
+        <li><a href="https://www.numbeo.com/traffic/rankings_by_country.jsp">Traffic Index by Country</a></li> 
+       </ul></li> 
+      <li class="dir"> <a href="https://www.numbeo.com/quality-of-life/">Quality Of Life</a> 
+       <ul> 
+        <li><a href="https://www.numbeo.com/quality-of-life/">Quality of Life</a></li> 
+        <li><a href="https://www.numbeo.com/quality-of-life/comparison.jsp">Quality of Life Comparisons</a></li> 
+        <li><a href="https://www.numbeo.com/quality-of-life/rankings_current.jsp">Quality of Life Index Rate Latests</a></li> 
+        <li><a href="https://www.numbeo.com/quality-of-life/rankings.jsp">Quality of Life Index</a></li> 
+        <li><a href="https://www.numbeo.com/quality-of-life/rankings_by_country.jsp">Quality of Life Index by Country</a></li> 
+       </ul></li> 
+      <li class="dir"> <a href="#">Travel</a> 
+       <ul> 
+        <li><a href="https://www.numbeo.com/taxi-fare/">Taxi Fare Calculator</a></li> 
+        <li><a href="https://www.numbeo.com/gas-prices/">Gas Prices Calculator</a></li> 
+       </ul></li> 
+     </ul> 
+     <br style="clear: both"> 
+    </nav> 
+   </div> 
+   <!-- dropdown-outer --> 
+   <div class="right-ads-and-info"> 
+    <div class="right-ads"> 
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+     <!-- numbeo2_0 ads_right_med_rect --> 
+     <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8993465169534557" data-ad-slot="8165022551"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+    </div> 
+   </div> 
+   <p> </p>
+   <nav itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb"> 
+    <a href="https://www.numbeo.com/common/" class="discreet_link"><img src="https://www.numbeo.com/images/home.png" class="image_without_border hide_smaller_than_600" alt="home"></a>
+    <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="https://www.numbeo.com/crime/" itemprop="item" class="breadcrumb_link"><span itemprop="name">Crime</span></a>
+     <meta itemprop="position" content="1"> </span> 
+    <span style="font-size: 75%; display: inline-block;">&gt;</span> 
+    <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="https://www.numbeo.com/crime/country_result.jsp?country=India" itemprop="item" class="breadcrumb_link"><span itemprop="name">India</span></a>
+     <meta itemprop="position" content="2"> </span> 
+    <span style="font-size: 75%; display: inline-block;">&gt;</span> 
+    <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="https://www.numbeo.com/crime/in/Delhi" itemprop="item" class="breadcrumb_link"> <span itemprop="name">Delhi</span></a>
+     <meta itemprop="position" content="3"> </span>
+   </nav> 
+   <h1> Crime in Delhi, India</h1> 
+   <!-- social share start --> 
+   <aside> 
+    <table class="social_share "> 
+     <tbody>
+      <tr> 
+       <td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+        <div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;"> 
+         <div class="fb-like" data-width="24" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div> 
+        </div> </td> 
+       <td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top"> 
+        <div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;"> 
+         <a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a>
+        </div> </td> 
+       <td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top"> 
+        <div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;"> 
+         <div class="g-plusone" data-size="medium" data-annotation="none"></div> 
+        </div> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </aside> 
+   <!-- Column 1 start --> 
+   <nav> 
+    <div class="standard_margin disabled_on_small_devices"> 
+     <form action="https://www.numbeo.com/common/dispatcher.jsp" method="get" id="dispatch_form" class="dispatch_form"> 
+      <input type="hidden" name="where" value="https://www.numbeo.com/crime/compare_cities.jsp" style="display: inline; padding:0; margin:0;"> 
+      <input type="hidden" name="city_id2" id="city_id2" value="4016"> Compare Delhi with: 
+      <input id="city_selector_city_id1" size="24" type="text" placeholder="Type and Pick City"> 
+      <input type="hidden" id="city_id1" name="city_id1"> 
+      <input type="hidden" id="name_city_id1" name="name_city_id1"> 
+      <input type="hidden" name="tracking" value="getDispatchComparison"> 
+     </form> 
+     <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_city_id1').autocomplete({
+  	  source: 'https://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_city_id1').val(ui.item.label);
+         $('#city_id1').val(ui.item.value);
+jQuery('#dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#city_id1').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_city_id1').val();
+		   $('#name_city_id1').val(val);
+	   }
+  }); // end autocompleter definition
+ }); // end document ready 
+</script> 
+    </div> 
+   </nav> 
+   <aside>
+    <div class="seeding-call disabled_on_small_devices"> 
+     <span class="do_you_live_in">Do you live in <span class="purple_light">Delhi</span>? <span class="we_need_your_help"><a href="https://www.numbeo.com/crime/form.jsp?country=India&amp;city=Delhi&amp;returnUrl=%2Fcrime%2Fin%2FDelhi" class="enterDataA">Add data for Delhi</a> </span></span>
+    </div>
+   </aside> 
+   <aside> 
+    <table class="table_indices"> 
+     <tbody>
+      <tr>
+       <th>Index</th>
+       <th><a href="https://www.numbeo.com/crime/indices_explained.jsp" title="About these indices"><img src="https://www.numbeo.com/images/information.png" class="image_help" alt="Info"></a></th>
+      </tr> 
+      <tr>
+       <td>Crime Index: </td> 
+       <td style="text-align: right"> 58.97</td> 
+      </tr> 
+      <tr>
+       <td>Safety Index: </td> 
+       <td style="text-align: right"> 41.03</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </aside> 
+   <div id="gauge_div" class="gauge_1" style="display: block;"></div> 
+   <script type="text/javascript">
+      google.load('visualization', '1', {packages:['gauge']});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Label');
+        data.addColumn('number', 'Value');
+        data.addRows([
+          ['Crime', 58.97],
+        ]);
+
+        var calcHeight = $(window).width() / 3.5;
+        if (calcHeight > 140) {
+          calcHeight = 140;
+        }
+        if (calcHeight < 85) {
+          calcHeight = 85;
+        }
+        var options = {
+          width: 10 + (calcHeight + 5) * 1,
+          height: calcHeight,
+          redFrom: 80.00, redTo: 130.00,
+          yellowFrom:40.00, yellowTo: 80.00,
+          max: 120.00, 
+          minorTicks: 5
+        };
+
+        var chart = new google.visualization.Gauge(document.getElementById('gauge_div'));
+        chart.draw(data, options);
+      }
+    </script> 
+   <h2>Crime rates in Delhi, India</h2> 
+   <table class="table_builder_with_value_explanation data_wide_table"> 
+    <tbody>
+     <tr>
+      <td class="columnWithName">Level of crime</td>
+      <td>
+       <div id="level_of_crime" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">69.24</td>
+      <td class="hidden_on_small_mobile"><span class="red_light_standard"> High</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Crime increasing in the past 3 years</td>
+      <td>
+       <div id="crime_increasing" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">70.03</td>
+      <td class="hidden_on_small_mobile"><span class="red_light_standard"> High</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Worries home broken and things stolen</td>
+      <td>
+       <div id="worried_home_broken" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">55.53</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Worries being mugged or robbed</td>
+      <td>
+       <div id="worried_mugged_robbed" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">55.91</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Worries car stolen</td>
+      <td>
+       <div id="worried_car_stolen" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">57.55</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Worries things from car stolen</td>
+      <td>
+       <div id="worried_things_car_stolen" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">58.96</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Worries attacked</td>
+      <td>
+       <div id="worried_attacked" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">55.91</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Worries being insulted</td>
+      <td>
+       <div id="worried_insulted" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">53.92</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Worries being subject to a physical attack because of your skin colour, ethnic origin or religion</td>
+      <td>
+       <div id="worried_skin_ethnic_religion" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">38.83</td>
+      <td class="hidden_on_small_mobile"><span class="green_light_standard"> Low</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Problem people using or dealing drugs</td>
+      <td>
+       <div id="problem_drugs" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">46.17</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Problem property crimes such as vandalism and theft</td>
+      <td>
+       <div id="problem_property_crimes" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">58.62</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Problem violent crimes such as assault and armed robbery</td>
+      <td>
+       <div id="problem_violent_crimes" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">56.31</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Problem corruption and bribery</td>
+      <td>
+       <div id="problem_corruption" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">82.86</td>
+      <td class="hidden_on_small_mobile"><span class="red_standard"> Very High</span></td>
+     </tr> 
+    </tbody>
+   </table> 
+   <script>
+    $(function() {
+		$( "#level_of_crime" ).progressbar({
+			value: 69.24
+		});
+		$( "#crime_increasing" ).progressbar({
+			value: 70.03
+		});
+		$( "#worried_home_broken" ).progressbar({
+			value: 55.53
+		});
+		$( "#worried_mugged_robbed" ).progressbar({
+			value: 55.91
+		});
+		$( "#worried_car_stolen" ).progressbar({
+			value: 57.55
+		});
+		$( "#worried_things_car_stolen" ).progressbar({
+			value: 58.96
+		});
+		$( "#worried_attacked" ).progressbar({
+			value: 55.91
+		});
+		$( "#worried_insulted" ).progressbar({
+			value: 53.92
+		});
+		$( "#worried_skin_ethnic_religion" ).progressbar({
+			value: 38.83
+		});
+		$( "#problem_drugs" ).progressbar({
+			value: 46.17
+		});
+		$( "#problem_property_crimes" ).progressbar({
+			value: 58.62
+		});
+		$( "#problem_violent_crimes" ).progressbar({
+			value: 56.31
+		});
+		$( "#problem_corruption" ).progressbar({
+			value: 82.86
+		});
+	});
+</script> 
+   <h2>Safety in Delhi, India</h2> 
+   <table class="table_builder_with_value_explanation data_wide_table"> 
+    <tbody>
+     <tr>
+      <td class="columnWithName">Safety walking alone during daylight</td>
+      <td>
+       <div id="safe_alone_daylight" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">58.39</td>
+      <td class="hidden_on_small_mobile"><span class="yellow_neutral_standard"> Moderate</span></td>
+     </tr> 
+     <tr>
+      <td class="columnWithName">Safety walking alone during night</td>
+      <td>
+       <div id="safe_alone_night" class="jquery_bar"></div></td>
+      <td class="indexValueTd" style="text-align: right">27.27</td>
+      <td class="hidden_on_small_mobile"><span class="red_light_standard"> Low</span></td>
+     </tr> 
+    </tbody>
+   </table> 
+   <script>
+    $(function() {
+		$( "#safe_alone_daylight" ).progressbar({
+			value: 58.39
+		});
+		$( "#safe_alone_night" ).progressbar({
+			value: 27.27
+		});
+	});
+</script> 
+   <p><span class="reportees">Contributors: 304</span> </p>
+   <p><span class="reportees">Last update: April 2018</span> </p>
+   <p><span class="reportees">These data are based on perceptions of visitors of this website in the past 3 years.</span> </p>
+   <p><span class="reportees">If the value is 0, it means it is perceived as very low, and if the value is 100, it means it is perceived as very high.</span> 
+    <!-- social share start --> </p>
+   <aside> 
+    <table class="social_share "> 
+     <tbody>
+      <tr> 
+       <td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+        <div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;"> 
+         <div class="fb-like" data-width="24" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div> 
+        </div> </td> 
+       <td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top"> 
+        <div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;"> 
+         <a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a>
+        </div> </td> 
+       <td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top"> 
+        <div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;"> 
+         <div class="g-plusone" data-size="medium" data-annotation="none"></div> 
+        </div> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </aside> 
+   <aside>
+    <div class="seeding-call disabled_on_small_devices"> 
+     <span class="do_you_live_in"> Do you live in <span class="purple_light">Delhi</span>? <span class="we_need_your_help"><a href="https://www.numbeo.com/crime/form.jsp?country=India&amp;city=Delhi&amp;returnUrl=%2Fcrime%2Fin%2FDelhi" rel="nofollow" class="enterData2Button">Yes, I'm willing to do a survey</a></span></span>
+    </div>
+   </aside> 
+   <!-- numbeo_bottom_big_50 --> 
+   <div class="standard_margin"> 
+    <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8993465169534557" data-ad-slot="1669267119"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div> 
+   <div id="askToAddCommunity" class="askToAddCommunity" style="width: 100%;"> 
+    <div> 
+     <div class="form_community_member"> 
+      <form method="get" action="https://www.numbeo.com/common/SaveCommunityMember"> 
+       <input type="hidden" name="returnUrl" value="/crime/in/Delhi"> 
+       <input type="hidden" name="checking2" id="checking2" value="notchecked"> 
+       <input type="hidden" name="subscription_name" value=""> 
+       <table> 
+        <tbody>
+         <tr>
+          <td colspan="2">Sign up for our newsletter: </td>
+         </tr> 
+         <tr>
+          <td>Your email address:</td>
+          <td><input type="text" name="email" autocomplete="on" size="40"></td>
+         </tr> 
+         <tr>
+          <td colspan="2"><input type="submit" name="Join" value="Submit"></td>
+         </tr> 
+        </tbody>
+       </table> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking2').val('secret');
+});
+</script> 
+   <aside class="disabled_on_small_devices"> 
+    <div class="standard_margin"> 
+     <div class="nearby_city_info limit_size_ad_right">
+      Nearby cities: 
+      <table class="close_city_info"> 
+       <tbody>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Faridabad" class="likenormal"><span>Crime in </span><span class="like_a">Faridabad</span></a></td>
+         <td style="padding-left: 5px; text-align: right">32.87 km</td>
+        </tr>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Gurgaon" class="likenormal"><span>Crime in </span><span class="like_a">Gurgaon</span></a></td>
+         <td style="padding-left: 5px; text-align: right">34.46 km</td>
+        </tr>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Agra" class="likenormal"><span>Crime in </span><span class="like_a">Agra</span></a></td>
+         <td style="padding-left: 5px; text-align: right">223.05 km</td>
+        </tr>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Dehradun" class="likenormal"><span>Crime in </span><span class="like_a">Dehradun</span></a></td>
+         <td style="padding-left: 5px; text-align: right">239.39 km</td>
+        </tr>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Chandigarh" class="likenormal"><span>Crime in </span><span class="like_a">Chandigarh</span></a></td>
+         <td style="padding-left: 5px; text-align: right">249.21 km</td>
+        </tr>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Patiala-India" class="likenormal"><span>Crime in </span><span class="like_a">Patiala</span></a></td>
+         <td style="padding-left: 5px; text-align: right">258.29 km</td>
+        </tr>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Jaipur" class="likenormal"><span>Crime in </span><span class="like_a">Jaipur</span></a></td>
+         <td style="padding-left: 5px; text-align: right">259.82 km</td>
+        </tr>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Ludhiana" class="likenormal"><span>Crime in </span><span class="like_a">Ludhiana</span></a></td>
+         <td style="padding-left: 5px; text-align: right">316.85 km</td>
+        </tr>
+        <tr>
+         <td><a href="https://www.numbeo.com/crime/in/Jalandhar" class="likenormal"><span>Crime in </span><span class="like_a">Jalandhar</span></a></td>
+         <td style="padding-left: 5px; text-align: right">374.79 km</td>
+        </tr>
+       </tbody>
+      </table> 
+     </div> 
+    </div> 
+   </aside> 
+   <div class="comments_box"> 
+    <!-- post a comment --> 
+    <b><i>Leave a comment:</i></b>
+    <br> 
+    <form method="post" action="https://www.numbeo.com/common/SaveComment" accept-charset="UTF-8"> 
+     <input type="hidden" name="city" id="city" value="Delhi"> 
+     <input type="hidden" name="checking" id="checking" value="notchecked"> 
+     <input type="hidden" name="country" id="country" value="India"> 
+     <input type="hidden" name="afterSaveCommentUrl" id="afterSaveCommentUrl" value="/crime/in/Delhi"> 
+     <input type="hidden" name="appModul" id="appModul" value="7"> Your name: 
+     <input type="text" name="yourname" id="yourname"> 
+     <a href="https://www.numbeo.com/common/signIn?returnUrl=%2Fcrime%2Fin%2FDelhi" class="small_font">Sign In</a> 
+     <br> Your email address (optional): 
+     <input type="text" name="email_address" id="email_address"> 
+     <br> Your comment (no HTML): 
+     <br> 
+     <textarea name="commentText" id="commentText" class="comment_text_area"></textarea> 
+     <br> 
+     <input type="submit" value="Post comment"> 
+    </form> 
+    <!-- existing comments --> 
+    <p><i>19 Comments so far </i><br> </p>
+    <div class="comment_even">
+      #
+     <b>Kevin D. S.</b> 
+     <i> on Dec 26, 2017</i> : 
+     <div class="comment_body">
+       Hmm... How many years after Independence did it take for India to become so filthy? Like a child who doesn't know any better, the country wallows in its own excretia, literally. 
+      <br> Now, open rape on the buses occurs in full view of other passengers who do nothing to help.What? That pangs of anarchy and a disconnect that is a reversion away from structured society. How long before a complete return to animal behavior? 
+      <br> Does anyone wonnder why so many of we Americans don't want any more immigration here? We look on as country after country keeps up a mass Exodus to abandon there homeland and live off the achievements of our American forefathers. How long before we become a society of similar decay? Don't laugh, that's exactly the kind of denial that over time has led to so many third world countries to the hopeless and inexcusable situation that they find themselves. 
+      <br> And don't try to rationalize by saying we're a country of immigrants! We have had an open door policy for year after year, decade after decade, century after century. But nothing is good in the extreme. Yes, man must be governed and so should todays approach to alien migration in the USA. Why did it take terrorism and the loss of so many lives to finally wake us up? And that arousal is still incomplete. 
+      <br> What's it going to take to wake you up? 
+      <br> I hear India is wonderful this time of year. Why don't you take your wife and daughters for an Indian bus ride? Or save the cost of the trip and go on the subways of N.Y.C.? You say it's not that bad yet? Just wait and keep on letting all those who won't fix their own countries migrate here. And don't even get me started on the illegals....
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>anayat</b> 
+     <i> on May 11, 2017</i> : 
+     <div class="comment_body">
+       Yake Din na moulam sakesh na Makhan Ko Age K Houla Kar Dya 7 Gouraa John Kho Bathaa
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>incrdible india</b> 
+     <i> on Dec 27, 2016</i> : 
+     <div class="comment_body">
+       one girl rape every minut in india 
+      <br> one child been kidneping in every minut 
+      <br> one girl(teen) has been taken aways from thier faimly in the name of good education or jobs, than either sell to prostitution, or labour agency to sell to private residents as house worker salve in every hour.(crime patrool 100). 
+      <br> one bike and car been stollen in every 10 minuts in india 
+      <br> one Gang rape taking place in every hour in india but 90% not reporting due to safety of the girl. 
+      <br> 10 million peopel sleep hungery every day on the street of india while PM prime minister/CM cheif minster, MLA/MNA/MPAs enjoying 100 meal thaliy(platter)(buffet) every day day Free. 
+      <br> 100 million rupees, corruption and bribery exchange every day in india 
+      <br> 90% MLA,MNA,politician involved 500 million Rupees corruption and bribery every day 
+      <br> 100 people murders every day across the india every day 
+      <br> Bollywood stars and movies make 1000 billion rupees every year but not given and helping 30 million people who earn less than 100 $ dollar per month. 
+      <br> one hospital for each 20,000 poor people 
+      <br> one school for 10,000 poor students 
+      <br> 10 million childrn under age from 6- 12 working ileagal and abouse by work supplier, using drug sell, bagging on street and doing othr crime by force. 
+      <br> what els, watch CRIME PATROOL 100 SONY TV ASIA. you will not sleeps for days whatching all these crime happing under the hand of inidan politicain and PM.
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>citizen patel</b> 
+     <i> on Dec 27, 2016</i> : 
+     <div class="comment_body">
+       one girl rape every minut in india 
+      <br> one child been kidneping in every minut 
+      <br> one girl(teen) has been taken aways from thier faimly in the name of good education or jobs, than eith sell to prostituteion, or labour agency to sell to private residents as house worker salve in every hour.(crime patrool 100). 
+      <br> one bike and car been stollen in every 10 minuts in india 
+      <br> one Gang rape taking place in every hour in india but 90% not reporting due to safety of the girl. 
+      <br> 10 million peopel sleep hungery every day on the street of india 
+      <br> 100 million rupees, corruption and bribery exchange every day in india 
+      <br> 90% MLA,MNA,politician involved 500 million Rupees corruption and bribery every day 
+      <br> 100 people murders every day across the india every day 
+      <br> Bollywood stars and movies make 1000 billion rupees every year but not given and helping 30 million people who earn less than 100 $ dollar per month. 
+      <br> one hospital for each 20,000 poor peopel 
+      <br> one school for 10 poor students 
+      <br> 10 million childrn under age from 6- 12 working ileagal and abouse by work supplier, using drug sell, bagging and othr crime. 
+      <br> what els, watch CRIME PATROOL 100 SONY TV ASIA. you will not sleeps for days whatching all these crime happing under the hand of inidan politicain.
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>Sankarakumar</b> 
+     <i> on Jul 13, 2016</i> : 
+     <div class="comment_body">
+       Delhi is not at all safe. On earlier occasion somebody snatched gold chain forcefully from my wife. I personally reported the matter to R.K.Puram Police Station, the then SHO don't want to register my complaint simply stating that we will find out the culprit. On 17th June, 2016 our house was ransacked after breaking the entrance door forcefully. The police team visited the spot to do some investigation. Simply giving the FIR report will not solve the purpose. All the security forces are meant for VIPs/VVIPs in Delhi and not for the common man. God alone knows how long the common citizen should suffer from such incidents.
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>Kuldeep</b> 
+     <i> on Jun 01, 2016</i> : 
+     <div class="comment_body">
+       The Punjabis who migrated from Pakistan are the real problem in Delhi. To start with Delhi's cleansing We have to throw them out first.
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>Sunil</b> 
+     <i> on Mar 27, 2016</i> : 
+     <div class="comment_body">
+       Some people try to hide there shame by saying that "people committing crime in Delhi are outsiders like Biharis, UP'ittes n Haryanvis". This shows how useless, coward are delhiites that people from other state come n easily commit crime n goes away n U stay n watch like hizzddas.
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>Sachin</b> 
+     <i> on Feb 19, 2016</i> : 
+     <div class="comment_body">
+       Delhi NCR is not safe in the night I have car which is attached in ola my driver pickup a Rider in night around 1-2 Am she want to go Near vasant kunj area they both forget the way so my driver stop the car on the which went to mg to metro to delhi in the left thee was way which was going to Mahroli he was to try to use map by mobile on that time 1 Maruti VAN came behind the car there was 6-7 people in the car 3 People Ran behind my car with 2 had a iron rod my driver start the car and ran away from there so guys I would like to tell how can we safe in delhi ncr if this kind of criminal are wondering. 
+      <br> 
+      <br> If on that time criminals caught my driver then I am sure they loot my car also they definatly do some wrong with that girl and delhi police took all this case on the driver if he will be able to alive by those criminals. 
+      <br> 
+      <br> Guys please give the replys on this if I am wrong,.
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>Robin</b> 
+     <i> on Dec 20, 2015</i> : 
+     <div class="comment_body">
+       Delhi is not safe ...n m from north... Hard core stats are here to prove it....gujjar, jat all think gunda gardi is wat dey aim for in life ...
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>Ayesha</b> 
+     <i> on Dec 13, 2015</i> : 
+     <div class="comment_body">
+       Delhi is not a safe place. My friend was walking alone on the street during evening and he was robbed by 3 guys with knifes. He somehow managed to escape by running but they got hold of his house key. This is ridiculous. Delhi govt. should soon form an app where public can type out the crimes they face or see and massive actions to be taken against them. The app should be checked regularly. Its now seen that coming to India is like inviting your death risk.
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>piyush arora</b> 
+     <i> on Oct 13, 2015</i> : 
+     <div class="comment_body">
+       The local citizens (proper resident,born of delhi) are not bad.The outsiders are criminals.Mostly Criminals are belong from bihar and Uttar pradesh,which belong from criminal background. The peoples of delhi are educated,while from mostly people from village like from bihar and Uttar predesh are criminials. First of all we have to throw biharis and ups out of our capital of India.
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>Ronny </b> 
+     <i> on Jun 23, 2015</i> : 
+     <div class="comment_body">
+       Peoples are criminal minded in Delhi Peoples kill for overtaking vehicals not serving chole kulche on time,if they doesnt like color of ice cream so they kill icecream vendor hahahah totally animals so we mumbaikar hates delhiites and so many reasons for this AAMCi mumbai great mumbai
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>satish</b> 
+     <i> on Jun 14, 2015</i> : 
+     <div class="comment_body">
+       Delhi or any other place is safe as long as netas are not disturbing police.
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>Eshaan Paliwal</b> 
+     <i> on May 30, 2015</i> : 
+     <div class="comment_body">
+       delhi is not a safe place especially on the outskirts the people will always look a bit scary and criminal minded
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>Arnab</b> 
+     <i> on May 17, 2015</i> : 
+     <div class="comment_body">
+       Delhi is not at all a safe place.I lived in Delhi for 1 year but I could see the mentality of people.Criminal mind mentality.
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>Lilly</b> 
+     <i> on Mar 03, 2015</i> : 
+     <div class="comment_body">
+       Delhi is infamous for crimes against women. Also called rape capital of India. Mumbai (and Maharashtra) is comparatively the safest city in India. Also southern states are safer than the norther part of the country
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>gupta ji</b> 
+     <i> on Feb 24, 2015</i> : 
+     <div class="comment_body">
+       Delhi is safe only when if you are good with everyone and someone don't have any personal grudges against you. but mentality in Delhi for girls is same as in all over India.
+     </div> 
+    </div> 
+    <div class="comment_odd">
+      #
+     <b>Deepak Ranjan</b> 
+     <i> on Dec 24, 2014</i> : 
+     <div class="comment_body">
+       Delhi is one of the safest place in India however the incidents delhi are highlighted very much which happens in other cities also which I believe is good, Being the Indian capital the media is also playing very good role in highlighting small as well as big incidents and are well reported. 
+      <br> 
+      <br> I other cities, crime takes place but people gets afraid to report it....
+     </div> 
+    </div> 
+    <div class="comment_even">
+      #
+     <b>Deepika</b> 
+     <i> on Sep 15, 2014</i> : 
+     <div class="comment_body">
+       As a woman, I feel extremely safe in Delhi. Although crime does occur, this occurs in all cities around the world. But absolutely love Delhi and its nightlife!
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking').val('secret');
+});
+</script> 
+   <nav> 
+    <div class="text_block"> 
+     <span class="small_font"> More about Delhi: <span class="more_about_content"> <span class="nobreak"> <a href="https://www.numbeo.com/cost-of-living/in/Delhi">Cost of Living</a></span> <span class="nobreak"> | <b>Crime</b></span> <span class="nobreak"> | <a href="https://www.numbeo.com/climate/in/Delhi">Climate</a></span> <span class="nobreak"> | <a href="https://www.numbeo.com/food-prices/in/Delhi">Food Prices</a></span> <span class="nobreak"> | <a href="https://www.numbeo.com/gas-prices/in/Delhi">Gas Prices</a></span> <span class="nobreak"> | <a href="https://www.numbeo.com/health-care/in/Delhi">Health Care</a></span> <span class="nobreak"> | <a href="https://www.numbeo.com/pollution/in/Delhi">Pollution</a></span> <span class="nobreak"> | <a href="https://www.numbeo.com/property-investment/in/Delhi">Property Prices</a></span> <span class="nobreak"> | <a href="https://www.numbeo.com/quality-of-life/in/Delhi">Quality of Life</a></span> <span class="nobreak"> | <a href="https://www.numbeo.com/taxi-fare/in/Delhi">Taxi Fare</a></span> <span class="nobreak"> | <a href="https://www.numbeo.com/traffic/in/Delhi">Traffic</a></span> </span> </span> 
+    </div> 
+   </nav> 
+   <div id="fb-root"></div> 
+   <div class="footer_content"> 
+    <a href="https://www.numbeo.com/common/about.jsp">About</a>
+    <span class="footer_separator"></span> 
+    <a href="https://www.numbeo.com/common/in_the_news.jsp">In the News</a>
+    <span class="footer_separator"></span> 
+    <a href="https://www.numbeo.com/common/join_community.jsp">Newsletter</a>
+    <span class="footer_separator"></span> 
+    <a href="https://www.numbeo.com/common/api.jsp" rel="nofollow">API</a>
+    <p> <span style="font-style: italic"> Copyright © 2009-2018 Numbeo. Your use of this service is subject to our <a href="https://www.numbeo.com/common/terms_of_use.jsp">Terms of Use</a> and <a href="https://www.numbeo.com/common/privacy.jsp">Privacy Policy</a> </span></p> 
+   </div> 
+  </div> 
+  <!-- end of innerWidth --> 
+  <script src="https://apis.google.com/js/platform.js" async defer></script> 
+  <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=182369865155656";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script> 
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+  <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10969791-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>   
+ </body>
+</html>
